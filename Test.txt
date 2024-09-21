@@ -4,4 +4,8 @@ Jalen Brown
 =======
 Cash Andalora
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+calico
+=======
 Some text.
+>>>>>>> 4794920192f74654c3f7505357ebb0d98bb5210a
