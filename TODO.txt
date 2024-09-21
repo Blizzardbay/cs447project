@@ -1,0 +1,24 @@
+PRE
+	Create database and basic tables (but not fill them)
+	Create images or ideas for layout
+	Create UI designs for the layout
+	Download XAMPP and use atleast once (contact KB22411@umbc.edu or through other means for example code to run)
+	Use VScode (not what I used), I used (Notepad++)
+	Create Github
+DURING
+	1. PHP and databse working
+	-Give info to database and then dispay that info on the website
+	-When going to website it displays all current info in database
+	-Remove stuff from website and update what is displayed
+	-Modifying the entries in the website and updating the display
+	2. UI (specific CSS for buttons and stuff i.e interactiviy)
+	-Add button
+	-Remove button
+	-"Edit" button
+	-Title bar & Logo
+	3. Pages
+	-Help
+	-Main Page
+POST
+	Add other ideas (login, AI, revolutionary, filters)
+	Clear database of information not tables
